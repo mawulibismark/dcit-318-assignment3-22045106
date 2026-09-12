@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAKRA\\source\\repos\\InventoryRecords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8A3928-EF6D-4451-AFF8-A0AAF6D25CE7}|InventoryRecords\\InventoryRecords.csproj|c:\\users\\kakra\\source\\repos\\inventoryrecords\\inventoryrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8A3928-EF6D-4451-AFF8-A0AAF6D25CE7}|InventoryRecords\\InventoryRecords.csproj|solutionrelative:inventoryrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAKRA\\source\\repos\\InventoryRecords\\InventoryRecords\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryRecords\\Program.cs",
+              "ToolTip": "C:\\Users\\KAKRA\\source\\repos\\InventoryRecords\\InventoryRecords\\Program.cs*",
+              "RelativeToolTip": "InventoryRecords\\Program.cs*",
+              "ViewState": "AgIAANUAAAAAAAAAAAAswPQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:29:27.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
