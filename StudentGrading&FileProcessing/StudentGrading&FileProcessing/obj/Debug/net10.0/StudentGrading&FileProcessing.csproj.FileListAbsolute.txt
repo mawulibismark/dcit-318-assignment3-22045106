@@ -1,0 +1,15 @@
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\bin\Debug\net10.0\StudentGrading&FileProcessing.exe
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\bin\Debug\net10.0\StudentGrading&FileProcessing.deps.json
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\bin\Debug\net10.0\StudentGrading&FileProcessing.runtimeconfig.json
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\bin\Debug\net10.0\StudentGrading&FileProcessing.dll
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\bin\Debug\net10.0\StudentGrading&FileProcessing.pdb
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.AssemblyInfoInputs.cache
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.AssemblyInfo.cs
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.csproj.CoreCompileInputs.cache
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.dll
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\refint\StudentGrading&FileProcessing.dll
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.pdb
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentGrading&FileProcessing.genruntimeconfig.cache
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\ref\StudentGrading&FileProcessing.dll
+C:\Users\KAKRA\source\repos\StudentGrading&FileProcessing\StudentGrading&FileProcessing\obj\Debug\net10.0\StudentG.A2D12DE9.Up2Date
