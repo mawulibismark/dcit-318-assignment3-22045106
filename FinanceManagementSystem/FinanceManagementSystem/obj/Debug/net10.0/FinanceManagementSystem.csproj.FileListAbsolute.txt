@@ -1,0 +1,15 @@
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.exe
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.deps.json
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\refint\FinanceManagementSystem.dll
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\ref\FinanceManagementSystem.dll
+C:\Users\KAKRA\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceM.1E95118E.Up2Date
