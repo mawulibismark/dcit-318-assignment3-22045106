@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAKRA\\source\\repos\\HealthcareSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74FD795A-90E1-4D3E-887B-2CB3935941B9}|HealthcareSystem\\HealthcareSystem.csproj|c:\\users\\kakra\\source\\repos\\healthcaresystem\\healthcaresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FD795A-90E1-4D3E-887B-2CB3935941B9}|HealthcareSystem\\HealthcareSystem.csproj|solutionrelative:healthcaresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAKRA\\source\\repos\\HealthcareSystem\\HealthcareSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\KAKRA\\source\\repos\\HealthcareSystem\\HealthcareSystem\\Program.cs",
+              "RelativeToolTip": "HealthcareSystem\\Program.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:17:04.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

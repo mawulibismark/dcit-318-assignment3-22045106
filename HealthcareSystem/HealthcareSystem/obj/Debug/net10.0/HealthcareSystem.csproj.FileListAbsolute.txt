@@ -1,0 +1,15 @@
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.exe
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.deps.json
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.runtimeconfig.json
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.dll
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.dll
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\refint\HealthcareSystem.dll
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\ref\HealthcareSystem.dll
+C:\Users\KAKRA\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\Healthca.D1DF935A.Up2Date
